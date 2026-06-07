@@ -1,0 +1,13 @@
+# Dependências de BUILD (apenas para criar o EXE)
+# Instalação:
+#   pip install -r requirements-build.txt
+
+# Ferramentas de empacotamento
+pyinstaller>=6.1.0
+
+# Dependências normais da aplicação
+numpy>=2.4.0
+opencv-python>=4.13.0
+mediapipe>=0.10.0
+pystray>=0.19.5
+Pillow>=12.2.0

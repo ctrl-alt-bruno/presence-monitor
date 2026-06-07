@@ -1,0 +1,11 @@
+# Detector de Presença via câmera RGB
+# Windows 10/11
+#
+# Instalação:
+#   pip install -r requirements.txt
+
+numpy>=2.4.0
+opencv-python>=4.13.0
+mediapipe>=0.10.0
+pystray>=0.19.5
+Pillow>=12.2.0
